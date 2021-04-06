@@ -1,0 +1,9 @@
+PROGRAM pelda
+VALTOZOK:
+  EGESZ x
+  EGESZ n
+UTASITASOK:
+  x := 3.14
+  n := egeszresz(x) + tortresz(2.71)
+  KI: n
+PROGRAM_VEGE

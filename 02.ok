@@ -1,0 +1,11 @@
+PROGRAM pelda
+VALTOZOK:
+  VALOS x
+  VALOS y
+  EGESZ n
+UTASITASOK:
+  x := 0.
+  y := x
+  n := egeszresz(y) + tortresz(012345.678910)
+  KI: n
+PROGRAM_VEGE
